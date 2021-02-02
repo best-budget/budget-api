@@ -1,2 +1,2 @@
 # budget-api
-Budger API provides REST services for budget operations
+Budget API provides REST services for budget operations
